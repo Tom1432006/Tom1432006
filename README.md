@@ -4,7 +4,7 @@
 - My creations:
   - <a href="stadt-land-fluss.reinisch.net">stadt-land-fluss.reinisch.net</a>
   - <a href="1x1.reinisch.net">1x1.reinisch.net</a>
-  - <a href="https://tomgamedev.itch.io/">Meine itch.io page</a>
+  - <a href="https://tomgamedev.itch.io/">My itch.io page</a>
 <!-- - 💞️ I’m looking to collaborate on -->
 <!-- - 📫 How to reach me ... -->
 
