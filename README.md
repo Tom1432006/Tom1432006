@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tom1432006
+- 👋 Hi, I’m Tom
 - 👀 I’m interested in all kinds of programming
 - 🌱 I’m currently learning Web developement
 - My creations:
